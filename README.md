@@ -4,14 +4,11 @@ A Bonjour/Zeroconf protocol implementation in pure JavaScript. Publish
 services on the local network or discover existing services using
 multicast DNS.
 
-[![Build status](https://travis-ci.org/watson/bonjour.svg?branch=master)](https://travis-ci.org/watson/bonjour)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+**This fork fixes our issue when service with only localhost address was found. Only browser.js was changed.**
 
 ## Installation
 
-```
-npm install bonjour
-```
+will be added later
 
 ## Usage
 
